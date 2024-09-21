@@ -526,7 +526,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "gopher_duino_mini.net",
-      "plot": "",
+      "plot": "gopher_pilot_xiao_garber/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",

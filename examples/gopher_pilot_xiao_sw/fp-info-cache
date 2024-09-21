@@ -1,4 +1,4 @@
-23860630700038549
+23860634515787584
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96768,13 +96768,6 @@ gopher_jump
 0
 0
 gopher
-gopher_magic
-
-
-0
-0
-0
-gopher
 gopher_party
 
 
@@ -96783,6 +96776,13 @@ gopher_party
 0
 gopher
 gopher_pilot
+
+
+0
+0
+0
+gopher
+gopher_pilot_v2
 
 
 0
