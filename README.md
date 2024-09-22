@@ -1,9 +1,9 @@
-# gopher-board
+# gopher.pretty
 
+Gopher kicad Footprint Library.
 Let's make your own Gopher Board, and enjoy tinygo!
 
-![img](./img/IMG_0738.jpg)
-
+![img](./img/gopher-mod.png)
 
 ## Usage
 
