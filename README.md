@@ -17,9 +17,9 @@ You can also use this as is.
 
 I have confirmed that the project can be opened using kicad 8.0.
 
-The sample Kicad project I created can be found in the following repository.
+The Kicad project I created can be found in the following repository.
 
-https://github.com/sat0ken/my-gopher-board
+[https://github.com/sat0ken/my-gopher-board](https://github.com/sat0ken/gopher-board)
 
 ## Thanks
 
